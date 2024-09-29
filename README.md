@@ -1,3 +1,4 @@
+https://github.com/sheryfarid/sheryfarid/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png
 # Hi there, I'm Shehryar Ahmed! 👋
 
 ![Profile Banner](https://your-image-link.com) <!-- Add a cool banner or remove this line -->
