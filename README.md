@@ -1,7 +1,6 @@
 ![logo](https://github.com/sheryfarid/sheryfarid/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 # Hi there, I'm Shehryar Ahmed! 👋
 
-![Profile Banner](https://your-image-link.com) <!-- Add a cool banner or remove this line -->
 
 I am a passionate **Data Analyst** who loves working with data to generate actionable insights and create beautiful visualizations. With a background in **Python**, **SQL**, and **Power BI**, I strive to bring data-driven decision-making into everyday business operations.
 
