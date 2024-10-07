@@ -44,7 +44,7 @@ I am a passionate **Data Analyst** who loves working with data to generate actio
 #### **🔹 Cholesky Decomposition Web App**
 - **Description**: A web app that computes Cholesky decomposition using Python and Flask, with an interactive frontend built using HTML and CSS.
 - **Tech Stack**: Python, Flask, HTML, CSS
-- **Live Demo**: [View Demo](https://your-demo-link.com)
+
 
 #### **🔹 Netflix Data Analysis**
 - **Description**: Analyzed Netflix data using PostgreSQL and visualized insights in a Power BI dashboard.
@@ -58,7 +58,7 @@ I am a passionate **Data Analyst** who loves working with data to generate actio
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-](https://www.linkedin.com/in/hafiz-shehryar-ahmed-ab7360219/))  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shehryar-Ahmed)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sheryfarid795@gmail.com)
 
