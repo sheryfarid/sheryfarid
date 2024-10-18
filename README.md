@@ -56,6 +56,11 @@ I am a passionate **Data Analyst** who loves working with data to generate actio
 - 🌐 **Web Development**: Enhancing my Flask and front-end skills to build more interactive web apps.
 - 📊 **Advanced Data Visualization**: Exploring DAX in Power BI for more customized visuals.
 
+- <h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sheryfarid&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
+</p>
+
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-shehryar-ahmed-ab7360219/)
